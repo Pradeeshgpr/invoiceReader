@@ -1,0 +1,12 @@
+gst,invoice id,Order,PAN NO,Retailer,Shipping info,Delivered to
+GST NO,Invoice ID,Order number,Pan number,Sold by,Shipping Address,Delivery Address
+GST Registration number,Invoice number,Order num,pan #,Exported by,Shipped from,Delivered to
+Gst registration no,Invoice #,Order #,Pan id,Retailed by,Shipment info,Delivered address
+GST reg number,Invoice no,Order id,PAN NO,Retailer,Exported from,
+GST,Invoice ID no,Order no,PAN ID NO,Seller,Shipping from,
+GST reg no,Invoice num,Order id number,Permanent Account No,Exporter,,
+GST #,Invoice registration no,Bill no,Permanent Acc no,,,
+GST Registration No,,Bill num,Permanent Account Number,,,
+GSTIN ,,Bill id no,Permanent Acc Number,,,
+,,Bill number,Permanent Account,,,
+,,Bill #,Permanent Account details,,,

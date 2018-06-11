@@ -1,0 +1,41 @@
+Sold By
+PAN No
+Name
+Sold by
+Seller
+Retailer
+Company name
+Company
+Exported by
+Biling Address
+Shipping address
+Shipped to
+Delivered to
+PAN NO
+PAN #
+GSTIN
+PAN Number
+PAN
+GST Number
+GST registration number
+GST Registration No
+GST #
+GST
+GST reg number
+Order date
+Order number
+Invoice Details
+Invoice Date
+Invoice number
+Invoice ID
+Invoice no
+Invoice #
+Order Number
+Order ID
+Order No
+Invoice date
+Invoice
+IGST
+CGST
+GST
+SGST

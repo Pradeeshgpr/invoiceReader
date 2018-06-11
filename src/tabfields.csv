@@ -1,0 +1,22 @@
+SNO,Desc,Quantity,Amount,taxamount
+Serial number,Description,qty,amnt,taxamount
+Serial #,Item,quantity,amt,tax amount
+Serial,Product,Qty,amount,
+Sno,Name,quantity purchased,total amount,
+S.no,Product name,Q.t.y,,
+Serial no,Item name,quantity sold,final amount,
+Serial num,Item description,purchased quantity,amount(in rupees),
+S#,Item desc,,rupees,
+No,product desc,,Tax amnt,
+Serial,productname,,total,
+Number,item descri,,Tot,
+Ser.No,Products,,total amnt,
+SNO,products bought,,total amt,
+Sl.no,items bought,,rup,
+sl no,bought,,paid amount,
+Sl,,,amount to be paid,
+SL #,,,amount paid,
+,,,paid,
+,,,rupees in total,
+,,,Amount Rs.,
+,,,rs,
